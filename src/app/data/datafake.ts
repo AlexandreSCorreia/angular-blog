@@ -10,9 +10,20 @@ export const dataFake = [
     },
     {
       "id":"2",
-      "title": "Nova Série anunciada no Disney +",
+      "title": "Mashle: O poder da força bruta",
       "description": "bla blabla",
-      "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+      "photoCover":"https://superherojacked.b-cdn.net/wp-content/uploads/2022/12/Mash-Burnedead-Workout-2.webp"
+    },
+    {
+      "id":"3",
+      "title": "Overlord: A ascensão de Momonga",
+      "description": "bla blabla",
+      "photoCover": "https://cupulatrovao.com.br/wp-content/uploads/2021/07/ainz-e-guardioes-reunidos-1024x576.jpg"
+    },
+    {
+      "id":"4",
+      "title": "Blue Lock: Ganhará uma 2ª temporada e um filme",
+      "description": "bla blabla",
+      "photoCover": "https://static.anime21.blog.br/2022/10/CAPA-17.jpg"
     }
   ]
-  

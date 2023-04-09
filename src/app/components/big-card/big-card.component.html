@@ -9,14 +9,14 @@
     </div><!--big-card__photo-->
     <div class="big-card__title">
         <h1>
-            <a href="#">
+            <a [routerLink]="['content',id]">
                 {{ cardTitle }}
             </a>
         </h1>
     </div><!--big-card__title-->
     <div class="big-card__description">
         <p>
-            <a href="#">
+            <a [routerLink]="['content',id]">
                 {{ cardDescription }}
             </a>
         </p>
